@@ -42,8 +42,7 @@ ${prefix}iskenderısmarla » **Bot sunucudakilere iskender ısmarlar!**
 ${prefix}pastaismarla » **Bot sunucudakilere pasta ısmarlar!**
 ${prefix}tuzla » **Bot sunucudakileri Nusret'in tuzu ile tuzlar!**
 ${prefix}cayasekerat » **Bot, çayınıza şeker atar!**\n`)
-.addField("Yetkili Komutları", `${prefix}espri » **Bot size rastgele espri önerir!**
-${prefix}temizle » **Konuşmayı temizler!**\n`)
+.addField("Eğlence Komutları", `${prefix}temizle » **Konuşmayı temizler!**\n`)
 return  message.channel.sendEmbed(asdasd);
 }
 };
